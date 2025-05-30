@@ -1,0 +1,63 @@
+Sure! Here’s a list of common **topics in Data Structures and Algorithms (DSA)**:
+
+### 1. Data Structures
+
+* **Arrays**
+* **Linked Lists** (Singly, Doubly, Circular)
+* **Stacks**
+* **Queues** (Simple, Circular, Priority)
+* **Trees**
+
+  * Binary Trees
+  * Binary Search Trees (BST)
+  * AVL Trees
+  * Segment Trees
+  * Trie
+  * Heaps (Min-Heap, Max-Heap)
+* **Graphs**
+
+  * Representation (Adjacency Matrix/List)
+  * Directed & Undirected Graphs
+  * Weighted Graphs
+* **Hashing**
+* **Disjoint Set Union (Union-Find)**
+
+### 2. Algorithms
+
+* **Sorting Algorithms**
+
+  * Bubble, Selection, Insertion
+  * Merge Sort
+  * Quick Sort
+  * Heap Sort
+* **Searching Algorithms**
+
+  * Linear Search
+  * Binary Search
+* **Recursion & Backtracking**
+* **Dynamic Programming**
+* **Greedy Algorithms**
+* **Graph Algorithms**
+
+  * BFS (Breadth-First Search)
+  * DFS (Depth-First Search)
+  * Dijkstra’s Algorithm
+  * Bellman-Ford
+  * Floyd-Warshall
+  * Topological Sorting
+  * Minimum Spanning Tree (Kruskal, Prim)
+* **Divide and Conquer**
+* **Bit Manipulation**
+
+### 3. Problem-Solving Paradigms
+
+* Brute Force
+* Divide and Conquer
+* Greedy
+* Dynamic Programming
+* Backtracking
+* Branch and Bound
+
+---
+
+If you want, I can explain any specific topic or give example problems and solutions!
